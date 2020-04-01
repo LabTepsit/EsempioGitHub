@@ -6,7 +6,7 @@ namespace EsempioGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Primo esempio in GitHub");
+            Console.WriteLine("Primo esempio in GitHub ");
 
         }
     }
